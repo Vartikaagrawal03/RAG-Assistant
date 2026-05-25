@@ -1,0 +1,2 @@
+This document is about artificial intelligence. AI is transforming the world. Machine learning is a subset of AI that allows computers to learn from data. 
+
